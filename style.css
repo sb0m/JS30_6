@@ -1,0 +1,33 @@
+/*test {
+    #1c2124
+    color: #424c55; rgba(66, 76, 85, 0.5);
+    color: #2e86ab;
+    color: #084c61;
+    color: #a1d2ce;
+    color: #e7ecef;
+}*/
+
+html {
+    box-sizing: border-box;
+    background: #424c55;
+    font-family: 'helvetica neue';
+    font-weight: 200;
+    margin: 0;
+}
+
+body{
+	font: 11px 'Open Sans', sans-serif;
+	color: #ecebe4;
+	text-align:center;
+    background-color: #424c55;
+    padding: 3em;
+    margin: 0;
+}
+
+.highlight {
+    background-color: #2e86ab;
+}
+
+ul{
+   list-style-type: none;
+}
